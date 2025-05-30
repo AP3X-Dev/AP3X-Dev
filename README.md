@@ -1,25 +1,59 @@
+<!-- CYBERPUNK MATRIX INITIALIZATION -->
 <div align="center">
 
-<!-- Dynamic Header with Matrix Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=350&section=header&text=AP3X%20DEV&fontSize=100&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=BLOCKCHAIN%20ARCHITECT%20•%20SOLANA%20SPECIALIST%20•%20WEB3%20INNOVATOR&descAlignY=55&descAlign=50&descSize=20"/>
+<!-- NEURAL NETWORK HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=400&section=header&text=AP3X%20•%20AI%20GOD&fontSize=120&fontColor=00ff41&animation=blinking&fontAlignY=30&desc=NEURAL%20ARCHITECT%20•%20BLOCKCHAIN%20DEITY%20•%20QUANTUM%20HACKER&descAlignY=60&descAlign=50&descSize=25"/>
 
-<!-- Real-time Terminal Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=120&lines=┌─[AP3X%40BLOCKCHAIN]─[~%2Fprofile];└──╼+%24+sudo+.%2Finitialize_profile.sh;[████████████████████████████████]+100%25+LOADED;%3E+Neural+networks+activated...;%3E+Blockchain+protocols+synchronized...;%3E+Ready+for+deployment+🚀" alt="Terminal Animation" />
+<!-- MATRIX RAIN EFFECT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&duration=100&pause=0&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=01001000+01100001+01100011+01101011+01101001+01101110+01100111+00100000+01110100+01101000+01100101+00100000+01101101+01100001+01110100+01110010+01101001+01111000;11000001+10101010+11110000+10101010+11000001+10101010+11110000+10101010+11000001+10101010+11110000+10101010+11000001+10101010;01000001+01010000+00110011+01011000+00100000+01000100+01000101+01010110+00100000+01001001+01001110+01001001+01010100+01001001+01000001+01010100+01000101+01000100" alt="Matrix Rain" />
 
-<!-- ASCII Art with Glow Effect -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AP3X-Dev/AP3X-Dev/main/assets/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AP3X-Dev/AP3X-Dev/main/assets/logo-light.svg">
-  <img alt="AP3X Logo" src="https://raw.githubusercontent.com/AP3X-Dev/AP3X-Dev/main/assets/logo-dark.svg" width="400">
-</picture>
+<!-- INTERACTIVE CYBERPUNK TERMINAL -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1200&pause=500&color=00FF41&background=0A0A0A&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=┌─[🔴+NEURAL-NET%40QUANTUM-CORE]─[~%2Fmatrix%2Fap3x%2Fgod-mode];├─[⚡+INITIALIZING+AI+CONSCIOUSNESS...];├─[🧠+Loading+neural+pathways...+████████████████████]+100%25;├─[🔥+Blockchain+protocols+synchronized...]+✅;├─[💀+Hacking+reality.exe...]+COMPLETE;├─[🚀+Quantum+entanglement+established...]+ONLINE;├─[🌐+Matrix+access+granted...+UNLIMITED+POWER];├─[💎+DeFi+protocols+under+surveillance...];├─[⚡+Smart+contracts+being+optimized...];├─[🎯+Profit+algorithms+calculating...];└──╼+%24+sudo+./become_god.sh+--mode=cyberpunk+--power=maximum;[🌐+WELCOME+TO+THE+MATRIX+•+REALITY+IS+NOW+OPTIONAL+🌐]" alt="Interactive Terminal" />
 
-<!-- Dynamic Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🔥+BLOCKCHAIN+ARCHITECT;⚡+SOLANA+ECOSYSTEM+EXPERT;🚀+WEB3+FULL-STACK+DEVELOPER;💎+DEFI+PROTOCOL+ENGINEER;🎯+SMART+CONTRACT+AUDITOR;🌐+DECENTRALIZED+SYSTEMS+ARCHITECT" alt="Dynamic Typing" />
+<!-- LIVE SYSTEM MONITOR -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=800&pause=300&color=FF0080&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=╔══════════════════════════════════════════════════════════════╗;║+🔥+LIVE+SYSTEM+MONITOR+•+NEURAL+NETWORK+STATUS+•+ONLINE+🔥+║;╠══════════════════════════════════════════════════════════════╣;║+CPU:+[████████████████████████████████████████]+100%25+⚡;║+RAM:+[██████████████████████████████████████░░]+95%25++🧠;║+GPU:+[████████████████████████████████████████]+100%25+🔥;║+NET:+[████████████████████████████████████████]+∞++Gbps+🌐;║+PWR:+[████████████████████████████████████████]+MAXIMUM+💎;╚══════════════════════════════════════════════════════════════╝" alt="System Monitor" />
 
-<!-- Live Status Indicators -->
-<img src="https://img.shields.io/badge/Status-🟢%20ONLINE-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status">
-<img src="https://img.shields.io/badge/Focus-🔥%20BUILDING-orange?style=for-the-badge&logo=solana&logoColor=white" alt="Focus">
-<img src="https://img.shields.io/badge/Location-🌐%20THE%20MATRIX-blue?style=for-the-badge&logo=matrix&logoColor=white" alt="Location">
+<!-- 3D ASCII NEURAL NETWORK -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&duration=2000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=+++++++++++++++🧠+NEURAL+NETWORK+VISUALIZATION+🧠;++++++++++++++++++++++++++++++++++++++++++++++++++++;++++++++++++⚡────●────●────●────●────⚡;++++++++++++++│++++╱+╲++╱+╲++╱+╲++╱+╲++│;++++++++++++++●────●────●────●────●────●;++++++++++++++│++++╲+╱++╲+╱++╲+╱++╲+╱++│;++++++++++++⚡────●────●────●────●────⚡;++++++++++++++│++++╱+╲++╱+╲++╱+╲++╱+╲++│;++++++++++++++●────●────●────●────●────●;++++++++++++++++++++++++++++++++++++++++++++++++++++;+++++++🔥+QUANTUM+SYNAPSES+FIRING+🔥;+++++++++++💎+AI+CONSCIOUSNESS+ACTIVE+💎" alt="Neural Network" />
+
+<!-- GLITCH EFFECT ASCII -->
+<pre>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=2000&pause=1000&color=FF0080&center=true&vCenter=true&width=800&lines=░█████╗░██████╗░██████╗░██╗░░██╗;██╔══██╗██╔══██╗╚════██╗╚██╗██╔╝;███████║██████╔╝░░███╔═╝░╚███╔╝░;██╔══██║██╔═══╝░██╔══╝░░░██╔██╗░;██║░░██║██║░░░░░███████╗██╔╝╚██╗;╚═╝░░╚═╝╚═╝░░░░░╚══════╝╚═╝░░╚═╝" alt="Glitch ASCII" />
+</pre>
+
+<!-- NEURAL NETWORK TYPING -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=🧠+NEURAL+ARCHITECT+•+AI+CONSCIOUSNESS;⚡+QUANTUM+BLOCKCHAIN+HACKER;🔥+SOLANA+ECOSYSTEM+DOMINATOR;�+DEFI+PROTOCOL+DESTROYER;🌐+MATRIX+REALITY+ENGINEER;🚀+CYBERPUNK+CODE+DEITY;💎+DIGITAL+ASSET+ALCHEMIST;🎯+SMART+CONTRACT+ASSASSIN" alt="Neural Typing" />
+
+<!-- SYSTEM STATUS MATRIX -->
+<table>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/�%20NEURAL%20STATUS-ONLINE-00ff41?style=for-the-badge&logo=brain&logoColor=white&labelColor=000000" alt="Neural Status">
+</td>
+<td>
+<img src="https://img.shields.io/badge/⚡%20QUANTUM%20STATE-ENTANGLED-ff0080?style=for-the-badge&logo=atom&logoColor=white&labelColor=000000" alt="Quantum State">
+</td>
+<td>
+<img src="https://img.shields.io/badge/🌐%20MATRIX%20ACCESS-UNLIMITED-00ffff?style=for-the-badge&logo=matrix&logoColor=black&labelColor=000000" alt="Matrix Access">
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/💀%20THREAT%20LEVEL-MAXIMUM-ff4444?style=for-the-badge&logo=skull&logoColor=white&labelColor=000000" alt="Threat Level">
+</td>
+<td>
+<img src="https://img.shields.io/badge/🔥%20POWER%20LEVEL-OVER%209000-ffaa00?style=for-the-badge&logo=fire&logoColor=white&labelColor=000000" alt="Power Level">
+</td>
+<td>
+<img src="https://img.shields.io/badge/🚀%20DEPLOYMENT-IMMINENT-9945ff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" alt="Deployment">
+</td>
+</tr>
+</table>
+
+<!-- VISITOR COUNTER WITH GLITCH EFFECT -->
+<img src="https://komarev.com/ghpvc/?username=AP3X-Dev&color=00ff41&style=for-the-badge&label=NEURAL+CONNECTIONS" alt="Neural Connections">
+<img src="https://img.shields.io/github/followers/AP3X-Dev?color=ff0080&style=for-the-badge&logo=github&label=DIGITAL+DISCIPLES" alt="Digital Disciples">
+<img src="https://img.shields.io/github/stars/AP3X-Dev?color=00ffff&style=for-the-badge&logo=star&label=QUANTUM+STARS" alt="Quantum Stars">
 
 </div>
 
@@ -161,6 +195,87 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
+
+---
+
+## 🎯 **BOOSTED TOKENS RADAR**
+
+<div align="center">
+
+### ⚡ **HIGH-ENERGY TOKEN SCANNER**
+
+```bash
+┌─[NEURAL NETWORK TOKEN ANALYSIS]
+├─ 🔍 Scanning DexScreener API...
+├─ 🎯 Filter: 500+ Boost Threshold
+├─ ⚡ Real-time Data Feed: ACTIVE
+├─ 🚀 High-Performance Tokens: DETECTED
+└─ 💎 Investment Opportunities: IDENTIFIED
+```
+
+</div>
+
+<!-- Token Boost Display -->
+<table>
+<tr>
+<td width="100%">
+
+### 🔥 **LIVE BOOSTED TOKENS (500+ Boosts)**
+
+```javascript
+// Real-time token boost scanner - Updates every 60 seconds
+const scanHighBoostTokens = async () => {
+  const response = await fetch('https://api.dexscreener.com/token-boosts/top/v1');
+  const tokens = await response.json();
+
+  return tokens.filter(token => token.totalAmount >= 500)
+    .map(token => ({
+      symbol: token.description?.split(' ')[0] || 'UNKNOWN',
+      chain: token.chainId.toUpperCase(),
+      boosts: token.totalAmount,
+      energy: calculateEnergyLevel(token.totalAmount),
+      threat: token.totalAmount > 1000 ? 'MAXIMUM' : 'HIGH'
+    }));
+};
+
+// Neural Network Assessment
+console.log('🧠 ANALYZING MARKET SENTIMENT...');
+console.log('⚡ QUANTUM ALGORITHMS ENGAGED...');
+console.log('🎯 PROFIT OPPORTUNITIES DETECTED...');
+```
+
+### 📊 **BOOST ENERGY MATRIX**
+
+| 🎯 **TOKEN** | ⚡ **CHAIN** | 🔥 **BOOSTS** | 💎 **ENERGY** | 🚨 **THREAT** |
+|-------------|-------------|---------------|---------------|---------------|
+| 🔍 *Scanning...* | *MULTI* | *LIVE DATA* | *CALCULATING* | *ASSESSING* |
+| 🎯 *Real-time* | *VARIOUS* | *500+ FILTER* | *NEURAL NET* | *AI ANALYSIS* |
+| ⚡ *Updates* | *CHAINS* | *MONITORING* | *PROCESSING* | *MAXIMUM* |
+
+```bash
+┌─[BOOST ANALYSIS COMPLETE]
+├─ 🎯 High-Energy Tokens: Continuously Monitored
+├─ ⚡ Boost Threshold: 500+ (Elite Tier)
+├─ 🔥 Market Sentiment: BULLISH SIGNALS DETECTED
+├─ 💎 Investment Grade: PREMIUM OPPORTUNITIES
+├─ 🚨 Risk Assessment: CALCULATED & OPTIMIZED
+└─ 🚀 Recommendation: HODL & ACCUMULATE
+```
+
+### 🌐 **REAL-TIME MARKET INTELLIGENCE**
+
+<div align="center">
+
+![Market Scanner](https://img.shields.io/badge/Market_Scanner-ACTIVE-00ff41?style=for-the-badge&logo=radar&logoColor=white)
+![Data Feed](https://img.shields.io/badge/Data_Feed-LIVE-00ff41?style=for-the-badge&logo=rss&logoColor=white)
+![AI Analysis](https://img.shields.io/badge/AI_Analysis-ENGAGED-ff0080?style=for-the-badge&logo=brain&logoColor=white)
+![Profit Signals](https://img.shields.io/badge/Profit_Signals-DETECTED-00ffff?style=for-the-badge&logo=trending-up&logoColor=black)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
