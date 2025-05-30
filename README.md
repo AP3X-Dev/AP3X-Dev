@@ -10,13 +10,18 @@
 <!-- 🟣 NEON TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Neural+Network+Overlord;Blockchain+Architect;DeFi+Protocol+Designer;AI+God+Mode+Activated" alt="Professional Title" />
 
-<!-- 🧬 ANIMATED NEURAL NET / CODE RAIN -->
-<img src="https://raw.githubusercontent.com/ap3x-dev/ap3x-dev-assets/main/neuralnet-coderain.svg" width="80%" alt="AI Neural Net Code Rain" />
+> Building the future of decentralized finance and AI. Architecting neural-powered protocols on Solana and beyond.
 
-<!-- ⚡️ CYBERPUNK STATUS BADGES -->
+### 🧬 God Mode Skills
+- Blockchain Architecture (Solana, Ethereum, Rust, Solidity)
+- DeFi Protocol Design & Security Auditing
+- AI/ML Integration & Neural Networks
+- High-Performance Smart Contracts
+- Web3 Infrastructure & Automation
+
+<!-- 🟢 CYBERPUNK STATUS BADGES -->
 ![Status](https://img.shields.io/badge/Status-Building%20the%20Future-00ff41?style=for-the-badge&logo=codeforces)
 ![Focus](https://img.shields.io/badge/Focus-Solana%20Ecosystem-9945ff?style=for-the-badge&logo=solana)
-![Mission](https://img.shields.io/badge/Mission-DeFi%20Innovation-00ffff?style=for-the-badge&logo=ethereum)
 ![AI God](https://img.shields.io/badge/AI-God%20Mode-ff00cc?style=for-the-badge&logo=nvidia)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Explorer-00ffea?style=for-the-badge&logo=blockchaindotcom)
 
@@ -30,9 +35,10 @@
 <!-- 🟢 GLITCH DIVIDER -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
-<!-- 👾 HACKER ASCII EASTER EGG -->
+---
+
 <details>
-<summary>💻 Hacker Console (click to open)</summary>
+<summary>💻 <strong>AI God Console (click for terminal)</strong></summary>
 
 ```
 APΞX@cyberpunk:~$ whoami
