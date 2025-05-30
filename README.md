@@ -1,10 +1,9 @@
 <div align="center">
 
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,35,40&height=300&section=header&text=&fontSize=0&animation=fadeIn"/>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,35,40&height=300&section=header&text=The%20Era%20of%20AI%20is%20Here%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<div style="margin-top: -200px; position: relative; z-index: 10;">
+<div style="margin-top: -100px; position: relative; z-index: 10;">
 
-# The Era AI is Here ✨
 ## **I help you lead it**
 
 *Building production-grade blockchain protocols and AI systems that scale*
@@ -98,13 +97,12 @@
 <tr>
 <td width="33%" align="center">
 
-### Phase 1: Build
-<img src="https://img.shields.io/badge/🏗️-Architecture_Design-2563eb?style=for-the-badge&labelColor=1e293b"/>
-
-**Core Development**
+### 🏗️ **Phase 1: Build**
+*Architecture design and core development foundation*
 
 <div align="left">
 
+**Key Activities:**
 - Security-first architecture
 - Smart contract optimization
 - AI model development
@@ -118,13 +116,12 @@
 </td>
 <td width="33%" align="center">
 
-### Phase 2: Integrate
-<img src="https://img.shields.io/badge/🔗-System_Integration-059669?style=for-the-badge&labelColor=1e293b"/>
-
-**Frontend & Backend**
+### 🔗 **Phase 2: Integrate**
+*System integration and frontend/backend connectivity*
 
 <div align="left">
 
+**Key Activities:**
 - Web3 wallet integration
 - AI inference APIs
 - Real-time data feeds
@@ -138,13 +135,12 @@
 </td>
 <td width="33%" align="center">
 
-### Phase 3: Scale
-<img src="https://img.shields.io/badge/📈-Production_Deploy-dc2626?style=for-the-badge&labelColor=1e293b"/>
-
-**Launch & Monitor**
+### 📈 **Phase 3: Scale**
+*Production deployment and performance monitoring*
 
 <div align="left">
 
+**Key Activities:**
 - Mainnet deployment
 - AI model deployment
 - Performance monitoring
@@ -176,13 +172,13 @@
 ### 🎰 **Solana Casino**
 [![Solana Casino](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=Solana-Casino&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/Solana-Casino)
 
-**High-Performance DeFi Gaming Platform**
+**DeFi Gaming Platform**
 
 <div align="left">
 
-- **TVL:** $500K+ locked value
-- **Users:** 10,000+ active players
-- **Latency:** <100ms transaction time
+- **Features:** Provably fair gaming
+- **Security:** Multi-signature treasury
+- **Performance:** Optimized for speed
 - **Tech:** Rust/Anchor, React, WebSocket
 
 </div>
@@ -275,16 +271,16 @@
 <tr>
 <td width="50%" align="center">
 
-### 📊 **Portfolio**
-**$10M+ TVL Secured**
+### 📊 **Expertise**
+**Blockchain + AI Development**
 
 <div align="left">
 
-✅ 50+ Smart Contracts Deployed
-✅ 20+ AI Models in Production
-✅ 15+ DApps Live
-✅ Zero Security Incidents
-✅ 99.9% Uptime Achieved
+✅ Smart Contract Development
+✅ AI/ML Model Creation
+✅ Full-Stack Integration
+✅ Security-First Approach
+✅ Performance Optimization
 
 </div>
 
