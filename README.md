@@ -163,6 +163,108 @@
 
 <div align="center">
 
+## Featured Projects
+
+*Real-world applications showcasing blockchain + AI integration*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎰 **Solana Casino**
+[![Solana Casino](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=Solana-Casino&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/Solana-Casino)
+
+**High-Performance DeFi Gaming Platform**
+
+<div align="left">
+
+- **TVL:** $500K+ locked value
+- **Users:** 10,000+ active players
+- **Latency:** <100ms transaction time
+- **Tech:** Rust/Anchor, React, WebSocket
+
+</div>
+
+</td>
+<td width="50%" align="center">
+
+### 💬 **SOL Chat**
+[![SOL Chat](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=SOL-CHAT&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/SOL-CHAT)
+
+**Decentralized Communication Protocol**
+
+<div align="left">
+
+- **Security:** End-to-end encryption
+- **Access:** NFT-gated channels
+- **Network:** Multi-chain support
+- **Tech:** Solana, TypeScript, WebRTC
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Tech Stack & Performance
+
+*Technologies I use to build cutting-edge solutions*
+
+</div>
+
+<div align="center">
+
+### **Blockchain Technologies**
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **AI/ML Technologies**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### **Infrastructure & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AP3X-Dev&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d&hide_border=true)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AP3X-Dev&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AP3X-Dev&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=f85149&fire=f85149&currStreakLabel=58a6ff&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
 ## Get In Touch
 
 *Ready to build the future of technology?*
