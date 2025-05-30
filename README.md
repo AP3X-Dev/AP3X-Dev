@@ -1,8 +1,8 @@
-<!-- ⚡️ APΞX CYBERPUNK PROFILE (Inspired by Modern Card UI) ⚡️ -->
+<!-- APΞX PROFILE (Black/White/Grey/Red Theme) -->
 <div align="center">
 
-<!-- 🟥 HERO BANNER (replace with AP3X.png when available) -->
-<img src="./AP3X.png" alt="AP3X Hero Banner" width="320" style="border-radius: 24px; box-shadow: 0 0 24px #ff0040; margin-bottom: 24px;"/>
+<!-- HERO BANNER (AP3X.png) -->
+<img src="./AP3X.png" alt="AP3X Hero Banner" width="320" style="border-radius: 16px; border: 4px solid #ff2323; background: #111; margin-bottom: 24px;"/>
 
 </div>
 
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-# <span style="color:#ff0040;">Boosting Blockchain & AI Reality</span>
+# <span style="color:#ff2323; font-weight: bold;">Boosting Blockchain & AI Reality</span>
 
-> <strong style="color:#fff;">Architecting neural-powered, decentralized protocols. Cyberpunk dev. AI God mode. Welcome to the Neon Matrix.</strong>
+> <span style="color:#fff; font-size:1.1em;">Architecting neural-powered, decentralized protocols. Welcome to the future.</span>
 
 </div>
 
@@ -20,9 +20,9 @@
 
 <div align="center">
 
-<table><tr><td width="100%" align="center" style="background:#18181b;border-radius:18px;padding:24px 0 16px 0;box-shadow:0 0 18px #ff0040;">
+<table><tr><td width="100%" align="center" style="background:#222; border-radius:16px; padding:20px 0 12px 0; box-shadow:0 0 12px #222;">
 
-### 🧬 <span style="color:#ff0040;">God Mode Skills</span>
+### <span style="color:#ff2323;">Core Skills</span>
 - Blockchain Architecture (Solana, Ethereum, Rust, Solidity)
 - DeFi Protocol Design & Security Auditing
 - AI/ML Integration & Neural Networks
@@ -36,92 +36,30 @@
 ---
 
 <details>
-<summary><strong style="color:#ff0040;">💻 AI God Console (click for terminal)</strong></summary>
+<summary><span style="color:#ff2323; font-weight:bold;"> Terminal (click to expand)</span></summary>
 
 ```
-APΞX@cyberpunk:~$ whoami
-👁️  Blockchain Architect | AI God | DeFi Overlord
+APΞX@matrix:~$ whoami
+ Blockchain Architect | AI Dev | Protocol Engineer
 
-APΞX@cyberpunk:~$ fortune | cowsay
- ______________________________ 
-< Welcome to the Neon Matrix!  >
- ------------------------------ 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+APΞX@matrix:~$ ./activate_god_mode.sh
+[■■■■■■■■■■■■■■■■■■■■■■■■] 100% Synced
+> Welcome. System: Online.
 
-APΞX@cyberpunk:~$ ./run_ai_god.sh
-[██████████████████████████] 100% Neural Net Synced
-> AI God Mode Activated. Welcome, Overlord.
+APΞX@matrix:~$ echo "Build. Ship. Disrupt."
+Build. Ship. Disrupt.
 ```
 
 </details>
 
-<!-- 🟣 NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-
 ---
-
-## 🎯 **About Me**
-
-<table>
-<tr>
-<td width="60%">
-
-### 🚀 **Mission Statement**
-Building the future of decentralized finance through innovative blockchain solutions. Specializing in Solana ecosystem development with a focus on security, performance, and user experience.
-
-### 💡 **Core Expertise**
-- **Blockchain Architecture** - Designing scalable DeFi protocols
-- **Smart Contract Development** - Rust, Solidity, and Anchor framework
-- **Security Auditing** - Protecting protocols and user funds
-- **Performance Optimization** - Gas efficiency and transaction speed
-
-### 🎯 **Current Focus**
-Working on next-generation DeFi protocols that bridge traditional finance with blockchain technology. Always exploring the intersection of AI and blockchain.
-
-</td>
-<td width="40%">
-
-### 📊 **Quick Stats**
-
-![Profile Views](https://komarev.com/ghpvc/?username=AP3X-Dev&color=00ff41&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/AP3X-Dev?color=00ff41&style=for-the-badge&logo=github&label=Followers)](https://github.com/AP3X-Dev)
-![GitHub Stars](https://img.shields.io/github/stars/AP3X-Dev?color=00ff41&style=for-the-badge&logo=github&label=Stars)
-![Blockchain Explorer](https://img.shields.io/badge/Explorer-Solana-00ffea?style=for-the-badge&logo=solana)
-![AI God Mode](https://img.shields.io/badge/AI-God%20Mode-ff00cc?style=for-the-badge&logo=openai)
-
-<!-- 🟢 INTERACTIVE STATS -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=AP3X-Dev&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&currStreakLabel=00ff41&sideLabels=ff00cc)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AP3X-Dev&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00ff41)](https://github.com/anuraghazra/github-readme-stats)
-
-### ⚡ **Experience**
-- **5+ Years** in Web3 Development
-- **20+ DApps** Successfully Deployed
-- **50+ Smart Contracts** Audited
-- **$10M+ TVL** Secured
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ **Technology Stack**
 
 <div align="center">
 
-### **Blockchain & Web3**
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+<table><tr>
+<td width="48%" align="center" style="background:#222; border-radius:16px; padding:16px; box-shadow:0 0 12px #222; vertical-align:top;">
 
-### **Development**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Solana Casino](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=Solana-Casino&theme=graywhite&border_color=ff2323&title_color=ff2323&icon_color=ff2323)](https://github.com/AP3X-Dev/Solana-Casino)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
