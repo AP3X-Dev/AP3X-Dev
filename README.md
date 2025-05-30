@@ -4,7 +4,7 @@
 
 <div style="margin-top: -200px; position: relative; z-index: 10;">
 
-# The Era of Blockchain + AI is Here ✨
+# The Era AI is Here ✨
 ## **I help you lead it**
 
 *Building production-grade blockchain protocols and AI systems that scale*
