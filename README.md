@@ -1,44 +1,42 @@
-<!-- ⚡️ CYBERPUNK HACKER GOD PROFILE ⚡️ -->
+<!-- ⚡️ APΞX CYBERPUNK PROFILE (Inspired by Modern Card UI) ⚡️ -->
 <div align="center">
 
-<!-- 🚀 GLITCH HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=APΞX&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Architect%20%E2%80%A2%20AI%20God%20Dev&descAlignY=55&descAlign=50&descSize=20"/>
+<!-- 🟥 HERO BANNER (replace with AP3X.png when available) -->
+<img src="./AP3X.png" alt="AP3X Hero Banner" width="320" style="border-radius: 24px; box-shadow: 0 0 24px #ff0040; margin-bottom: 24px;"/>
 
-<!-- 🟢 GLITCH DIVIDER -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
 
-<!-- 🟣 NEON TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Neural+Network+Overlord;Blockchain+Architect;DeFi+Protocol+Designer;AI+God+Mode+Activated" alt="Professional Title" />
+---
 
-> Building the future of decentralized finance and AI. Architecting neural-powered protocols on Solana and beyond.
+<div align="center">
 
-### 🧬 God Mode Skills
+# <span style="color:#ff0040;">Boosting Blockchain & AI Reality</span>
+
+> <strong style="color:#fff;">Architecting neural-powered, decentralized protocols. Cyberpunk dev. AI God mode. Welcome to the Neon Matrix.</strong>
+
+</div>
+
+---
+
+<div align="center">
+
+<table><tr><td width="100%" align="center" style="background:#18181b;border-radius:18px;padding:24px 0 16px 0;box-shadow:0 0 18px #ff0040;">
+
+### 🧬 <span style="color:#ff0040;">God Mode Skills</span>
 - Blockchain Architecture (Solana, Ethereum, Rust, Solidity)
 - DeFi Protocol Design & Security Auditing
 - AI/ML Integration & Neural Networks
 - High-Performance Smart Contracts
 - Web3 Infrastructure & Automation
 
-<!-- 🟢 CYBERPUNK STATUS BADGES -->
-![Status](https://img.shields.io/badge/Status-Building%20the%20Future-00ff41?style=for-the-badge&logo=codeforces)
-![Focus](https://img.shields.io/badge/Focus-Solana%20Ecosystem-9945ff?style=for-the-badge&logo=solana)
-![AI God](https://img.shields.io/badge/AI-God%20Mode-ff00cc?style=for-the-badge&logo=nvidia)
-![Blockchain](https://img.shields.io/badge/Blockchain-Explorer-00ffea?style=for-the-badge&logo=blockchaindotcom)
-
-<!-- 🕶️ CYBERPUNK SOCIALS -->
-[![Twitter](https://img.shields.io/badge/X-@AP3X__Dev-00ff41?style=for-the-badge&logo=x)](https://twitter.com/AP3X_Dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AP3X--Dev-9945ff?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ap3x-dev)
-[![Website](https://img.shields.io/badge/Website-ap3x.dev-ff00cc?style=for-the-badge&logo=firefox-browser)](https://ap3x.dev)
+</td></tr></table>
 
 </div>
-
-<!-- 🟢 GLITCH DIVIDER -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
 ---
 
 <details>
-<summary>💻 <strong>AI God Console (click for terminal)</strong></summary>
+<summary><strong style="color:#ff0040;">💻 AI God Console (click for terminal)</strong></summary>
 
 ```
 APΞX@cyberpunk:~$ whoami
