@@ -365,4 +365,4 @@ My security audits include manual code review, automated vulnerability scanning,
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,35,40&height=200&section=footer&text=⚡%20Powered%20by%20Innovation%20•%20Secured%20by%20Blockchain%20•%20Trusted%20by%20Enterprises%20⚡&fontSize=24&fontColor=ffffff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,35,40&height=200&section=footer&animation=twinkling"/>
