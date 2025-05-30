@@ -1,20 +1,62 @@
-<!-- POLISHED CYBERPUNK PROFILE -->
+<!-- ⚡️ CYBERPUNK HACKER GOD PROFILE ⚡️ -->
 <div align="center">
 
-<!-- CLEAN HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=AP3X&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Architect%20%E2%80%A2%20AI%20Engineer&descAlignY=55&descAlign=50&descSize=20"/>
+<!-- 🚀 GLITCH HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=APΞX&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Architect%20%E2%80%A2%20AI%20God%20Dev&descAlignY=55&descAlign=50&descSize=20"/>
 
-<!-- ELEGANT TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Neural+Network+Engineer;Blockchain+Architect;DeFi+Protocol+Designer;Smart+Contract+Auditor" alt="Professional Title" />
+<!-- 🟢 GLITCH DIVIDER -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
-<br/>
+<!-- 🟣 NEON TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Neural+Network+Overlord;Blockchain+Architect;DeFi+Protocol+Designer;AI+God+Mode+Activated" alt="Professional Title" />
 
-<!-- CLEAN STATUS INDICATORS -->
-![Status](https://img.shields.io/badge/Status-Building%20the%20Future-00ff41?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Solana%20Ecosystem-9945ff?style=for-the-badge)
-![Mission](https://img.shields.io/badge/Mission-DeFi%20Innovation-00ffff?style=for-the-badge)
+<!-- 🧬 ANIMATED NEURAL NET / CODE RAIN -->
+<img src="https://raw.githubusercontent.com/ap3x-dev/ap3x-dev-assets/main/neuralnet-coderain.svg" width="80%" alt="AI Neural Net Code Rain" />
+
+<!-- ⚡️ CYBERPUNK STATUS BADGES -->
+![Status](https://img.shields.io/badge/Status-Building%20the%20Future-00ff41?style=for-the-badge&logo=codeforces)
+![Focus](https://img.shields.io/badge/Focus-Solana%20Ecosystem-9945ff?style=for-the-badge&logo=solana)
+![Mission](https://img.shields.io/badge/Mission-DeFi%20Innovation-00ffff?style=for-the-badge&logo=ethereum)
+![AI God](https://img.shields.io/badge/AI-God%20Mode-ff00cc?style=for-the-badge&logo=nvidia)
+![Blockchain](https://img.shields.io/badge/Blockchain-Explorer-00ffea?style=for-the-badge&logo=blockchaindotcom)
+
+<!-- 🕶️ CYBERPUNK SOCIALS -->
+[![Twitter](https://img.shields.io/badge/X-@AP3X__Dev-00ff41?style=for-the-badge&logo=x)](https://twitter.com/AP3X_Dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AP3X--Dev-9945ff?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ap3x-dev)
+[![Website](https://img.shields.io/badge/Website-ap3x.dev-ff00cc?style=for-the-badge&logo=firefox-browser)](https://ap3x.dev)
 
 </div>
+
+<!-- 🟢 GLITCH DIVIDER -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+
+<!-- 👾 HACKER ASCII EASTER EGG -->
+<details>
+<summary>💻 Hacker Console (click to open)</summary>
+
+```
+APΞX@cyberpunk:~$ whoami
+👁️  Blockchain Architect | AI God | DeFi Overlord
+
+APΞX@cyberpunk:~$ fortune | cowsay
+ ______________________________ 
+< Welcome to the Neon Matrix!  >
+ ------------------------------ 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+APΞX@cyberpunk:~$ ./run_ai_god.sh
+[██████████████████████████] 100% Neural Net Synced
+> AI God Mode Activated. Welcome, Overlord.
+```
+
+</details>
+
+<!-- 🟣 NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
 ---
 
@@ -42,10 +84,14 @@ Working on next-generation DeFi protocols that bridge traditional finance with b
 ### 📊 **Quick Stats**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AP3X-Dev&color=00ff41&style=for-the-badge&label=Profile+Views)
-
 [![GitHub followers](https://img.shields.io/github/followers/AP3X-Dev?color=00ff41&style=for-the-badge&logo=github&label=Followers)](https://github.com/AP3X-Dev)
-
 ![GitHub Stars](https://img.shields.io/github/stars/AP3X-Dev?color=00ff41&style=for-the-badge&logo=github&label=Stars)
+![Blockchain Explorer](https://img.shields.io/badge/Explorer-Solana-00ffea?style=for-the-badge&logo=solana)
+![AI God Mode](https://img.shields.io/badge/AI-God%20Mode-ff00cc?style=for-the-badge&logo=openai)
+
+<!-- 🟢 INTERACTIVE STATS -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=AP3X-Dev&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&currStreakLabel=00ff41&sideLabels=ff00cc)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AP3X-Dev&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00ff41)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚡ **Experience**
 - **5+ Years** in Web3 Development
