@@ -278,10 +278,10 @@
 
 <div align="left">
 
-✅ Smart Contract Development
-✅ AI/ML Model Creation
-✅ Full-Stack Integration
-✅ Security-First Approach
+✅ Smart Contract Development<br>
+✅ AI/ML Model Creation<br>
+✅ Full-Stack Integration<br>
+✅ Security-First Approach<br>
 ✅ Performance Optimization
 
 </div>
@@ -294,10 +294,10 @@
 
 <div align="left">
 
-✅ Complete development solution
-✅ Security audit included
-✅ AI/Blockchain integration
-✅ Frontend application
+✅ Complete development solution<br>
+✅ Security audit included<br>
+✅ AI/Blockchain integration<br>
+✅ Frontend application<br>
 ✅ 6 months support
 
 </div>
