@@ -255,6 +255,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AP3X-Dev&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=f85149&fire=f85149&currStreakLabel=58a6ff&hide_border=true)
 
+![Contribution Snake](https://raw.githubusercontent.com/AP3X-Dev/AP3X-Dev/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
