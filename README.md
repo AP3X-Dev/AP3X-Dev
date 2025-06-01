@@ -10,7 +10,6 @@
 
 ![Available](https://img.shields.io/badge/🟢_Available_for_Projects-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=4f46e5)
 
-![AP3X LockedIn](AP3X_LockedIn.png)
 
 </div>
 
