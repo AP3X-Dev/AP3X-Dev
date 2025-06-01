@@ -8,8 +8,6 @@
 
 *Building production-grade blockchain protocols and AI systems that scale*
 
-![AP3X LockedIn](AP3X_LockedIn.png)    
-
 ![Available](https://img.shields.io/badge/🟢_Available_for_Projects-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=4f46e5)
 
 ![AP3X LockedIn](AP3X_LockedIn.png)
@@ -24,7 +22,7 @@
 
 ## I Build Blockchain & AI Solutions
 
-*Specialized in Solana ecosystem development and cutting-edge AI/ML systems*  
+*Specialized in Solana ecosystem development and cutting-edge AI/ML systems*
 
 </div>
 
@@ -49,7 +47,7 @@
 <td width="33%" align="center">
 
 ### 🤖 **AI/ML Systems**
-*Neural networks and machine learning models for real-world applications*     
+*Neural networks and machine learning models for real-world applications*
 
 <div align="left">
 
@@ -223,40 +221,6 @@
 
 </td>
 </tr>
-<tr>
-<td width="50%" align="center">
-
-###  **Agentix Framework**
-[![Agentix](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=agentix&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/agentix)
-
-**FastAPI for AI Agents**
-
-<div align="left">
-
-- **Features:** Progressive disclosure design
-- **Models:** Claude, OpenRouter, OpenAI  
-- **Tools:** MCP protocol integration
-- **Tech:** Python, Anthropic, WebSocket
-
-</div>
-
-</td>
-<td width="50%" align="center">
-
-###  **Coming Soon**
-*Next-generation blockchain + AI integration*
-
-<div align="left">
-
-- **Innovation:** Cutting-edge research
-- **Integration:** Seamless AI/blockchain
-- **Performance:** Enterprise-grade
-- **Contact:** Get early access
-
-</div>
-
-</td>
-</tr>
 </table>
 
 ---
@@ -291,5 +255,135 @@
 
 </div>
 
+<div align="center">
 
+<table>
+<tr>
+<td width="50%">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AP3X-Dev&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d&hide_border=true)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AP3X-Dev&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AP3X-Dev&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=f85149&fire=f85149&currStreakLabel=58a6ff&hide_border=true)
+
+![Contribution Snake](https://raw.githubusercontent.com/AP3X-Dev/AP3X-Dev/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## Get In Touch
+
+*Ready to build the future of technology?*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📊 **Expertise**
+**Blockchain + AI Development**
+
+<div align="left">
+
+✅ Smart Contract Development<br>
+✅ AI/ML Model Creation<br>
+✅ Full-Stack Integration<br>
+✅ Security-First Approach<br>
+✅ Performance Optimization
+
+</div>
+
+</td>
+<td width="50%" align="center">
+
+### 💰 **Investment of Time**
+**Starting at $25,000**
+
+<div align="left">
+
+✅ Complete development solution<br>
+✅ Security audit included<br>
+✅ AI/Blockchain integration<br>
+✅ Frontend application<br>
+✅ 6 months support
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Schedule Call](https://img.shields.io/badge/📅_Schedule_Call-4f46e5?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/ap3x-dev)
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-059669?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ap3x.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+## Bring your business to the future
+
+*Join the blockchain + AI revolution with cutting-edge technology solutions*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AP3X-Dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AP3X_Dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ap3x)
+
+</div>
+
+---
+
+<div align="center">
+
+## FAQs
+
+</div>
+
+<details>
+<summary><strong>How long does development take?</strong></summary>
+<br>
+Typical blockchain protocol development takes 8-12 weeks from concept to mainnet deployment. AI/ML projects range from 4-8 weeks depending on complexity, including model training, testing, and deployment.
+</details>
+
+<details>
+<summary><strong>What technologies do you specialize in?</strong></summary>
+<br>
+I specialize in Solana blockchain development (Rust/Anchor) and also work with Ethereum, Polygon, and other EVM chains. For AI, I focus on PyTorch, TensorFlow, and custom neural network architectures for real-world applications.
+</details>
+
+<details>
+<summary><strong>Do you provide ongoing support?</strong></summary>
+<br>
+Yes, I offer 6 months of post-launch support including bug fixes, performance optimization, feature updates, and model retraining for AI systems.
+</details>
+
+<details>
+<summary><strong>Can you integrate AI with blockchain?</strong></summary>
+<br>
+Absolutely. I specialize in building hybrid systems that combine blockchain security with AI intelligence - from AI-powered trading algorithms to decentralized ML inference networks.
+</details>
+
+<details>
+<summary><strong>What's included in a security audit?</strong></summary>
+<br>
+My security audits include manual code review, automated vulnerability scanning, gas optimization analysis, and a comprehensive report with remediation recommendations for both smart contracts and AI model security.
+</details>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,35,40&height=200&section=footer&animation=twinkling"/>
