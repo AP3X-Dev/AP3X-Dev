@@ -52,7 +52,7 @@
 **Key Capabilities:**
 - Schema-first tools with validation
 - Secrets isolation and policy enforcement
-- Pack ecosystems (pip, npm)
+- Pack ecosystems (pip and npm)
 - MCP servers and tool catalogs
 
 </div>
@@ -158,7 +158,7 @@
 
 ## Featured Projects
 
-*AI-first builds (plus a couple legacy Web3 products)*
+*Flagship builds across agent infrastructure and high-polish product delivery*
 
 </div>
 
@@ -166,17 +166,17 @@
 <tr>
 <td width="33%" align="center">
 
-### 🤖 **Agentix**
-[![Agentix](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=AGENTIX&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/AGENTIX)
+### 🎰 **Solana Casino**
+[![Solana Casino](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=Solana-Casino&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/Solana-Casino)
 
-**Framework for building AI agents**
+**Full-stack DeFi gaming platform**
 
 <div align="left">
 
-- Progressive disclosure from simple to advanced
-- MCP tool support and memory primitives
-- Designed for production patterns and extensibility
-- Python-first developer experience
+- Provably fair gameplay with real-time UX
+- Treasury and payout flows designed for safety
+- Performance-optimized system architecture
+- Tech: Rust/Anchor, React, WebSocket
 
 </div>
 
@@ -190,9 +190,9 @@
 
 <div align="left">
 
-- Pack-based tools (pip and npm)
+- Pack-based tool ecosystem (pip and npm)
 - Policies, approvals, audit logs, secrets isolation
-- Tool catalog export as MCP server
+- Tool catalog export and MCP server compatibility
 - Built for safe agent actions at scale
 
 </div>
@@ -200,16 +200,17 @@
 </td>
 <td width="33%" align="center">
 
-### 🎰 **Solana Casino (Legacy)**
-[![Solana Casino](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=Solana-Casino&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/Solana-Casino)
+### 🔐 **AVP**
+[![AVP](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=AVP&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/AVP)
 
-**High-polish product build**
+**Credential lockbox protocol for agents**
 
 <div align="left">
 
-- Full-stack system design and delivery
-- Real-time features and production UX
-- Kept here as a reference build quality bar
+- Least-privilege credential access for tool runtimes
+- Policy-driven secrets issuance and rotation
+- Auditable access trails and scoped grants
+- Designed for agent safety in production
 
 </div>
 
