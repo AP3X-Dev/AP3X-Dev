@@ -1,15 +1,14 @@
 <div align="center">
 
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,35,40&height=300&section=header&text=The%20Era%20of%20AI%20is%20Here%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,35,40&height=300&section=header&text=Agentic%20AI%20That%20Ships%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <div style="margin-top: -100px; position: relative; z-index: 10;">
 
-## **I help you lead it**
+## **I build AI systems that do the work**
 
-*Building production-grade blockchain protocols and AI systems that scale*
+*Production-grade AI agents, tool platforms, and automations built to run in the real world*
 
-![Available](https://img.shields.io/badge/🟢_Available_for_Projects-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=4f46e5)
-
+![Available](https://img.shields.io/badge/🟢_Available_for_AI_Projects-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=4f46e5)
 
 </div>
 
@@ -19,9 +18,9 @@
 
 <div align="center">
 
-## I Build Blockchain & AI Solutions
+## What I Build
 
-*Specialized in Solana ecosystem development and cutting-edge AI/ML systems*
+*Agent platforms, voice automation, tool ecosystems, and full-stack products*
 
 </div>
 
@@ -29,48 +28,48 @@
 <tr>
 <td width="33%" align="center">
 
-### 🔗 **Blockchain Protocols**
-*Rust/Anchor frameworks optimized for performance and security*
+### 🤖 **AI Agents + Orchestration**
+*Multi-step agents that reliably take actions, not just chat*
 
 <div align="left">
 
-**Key Features:**
-- Gas-optimized smart contracts
-- Multi-signature security
-- Comprehensive testing
-- Audit-ready architecture
+**Key Capabilities:**
+- Tool calling with guardrails and approvals
+- Multi-agent workflows and routing
+- Memory, RAG, and knowledge graphs
+- Evals, tracing, and regression safety
 
 </div>
 
 </td>
 <td width="33%" align="center">
 
-### 🤖 **AI/ML Systems**
-*Neural networks and machine learning models for real-world applications*
+### 🧰 **Tool Platforms + MCP**
+*Turn SDKs and APIs into safe, versioned agent tools*
 
 <div align="left">
 
-**Key Features:**
-- Custom model development
-- Real-time inference APIs
-- Performance optimization
-- Scalable deployment
+**Key Capabilities:**
+- Schema-first tools with validation
+- Secrets isolation and policy enforcement
+- Pack ecosystems (pip, npm)
+- MCP servers and tool catalogs
 
 </div>
 
 </td>
 <td width="33%" align="center">
 
-### 🚀 **Full-Stack Integration**
-*Complete applications bridging blockchain and AI technologies*
+### ⚡ **Voice + Automation**
+*Voice agents and back-office automation that move faster than humans*
 
 <div align="left">
 
-**Key Features:**
-- Real-time data feeds
-- Wallet integration
-- AI-powered features
-- Performance monitoring
+**Key Capabilities:**
+- Real-time voice workflows and handoffs
+- CRM, calendar, and messaging integration
+- Background jobs, queues, and webhooks
+- Monitoring, replay, and incident-friendly logs
 
 </div>
 
@@ -80,7 +79,7 @@
 
 <div align="center">
 
-[![Get Started](https://img.shields.io/badge/Get_Started-4f46e5?style=for-the-badge&logo=rocket&logoColor=white)](mailto:contact@ap3x.dev)
+[![Get Started](https://img.shields.io/badge/Start_a_Project-4f46e5?style=for-the-badge&logo=rocket&logoColor=white)](mailto:contact@ap3x.dev)
 
 </div>
 
@@ -88,9 +87,9 @@
 
 <div align="center">
 
-## How I Do It
+## How I Ship
 
-*My proven development process ensures security, performance, and scalability*
+*Build fast, keep it safe, make it maintainable*
 
 </div>
 
@@ -98,59 +97,56 @@
 <tr>
 <td width="33%" align="center">
 
-### 🗃️ **Phase 1: Build**
-*Architecture design and core development foundation*
+### 🧭 **Phase 1: Define**
+*Requirements, risks, and the shortest path to value*
 
 <div align="left">
 
 **Key Activities:**
-- Security-first architecture
-- Smart contract optimization
-- AI model development
-- Comprehensive testing
-- Code documentation
+- Problem framing and success metrics
+- Tool surface mapping and permissions
+- Data and memory design (RAG, KG, caching)
+- Threat model (prompt injection, secrets, abuse)
 
 </div>
 
-*Timeline: 2-4 weeks*
+*Typical: 3-7 days*
 
 </td>
 <td width="33%" align="center">
 
-### 🔗 **Phase 2: Integrate**
-*System integration and frontend/backend connectivity*
+### 🏗️ **Phase 2: Build**
+*Agent logic, tools, integrations, and UX*
 
 <div align="left">
 
 **Key Activities:**
-- Web3 wallet integration
-- AI inference APIs
-- Real-time data feeds
-- Performance optimization
-- Cross-platform compatibility
+- Agent orchestration and tool runtime
+- Integrations (CRMs, email, calendar, APIs)
+- Evals, test harnesses, replayable traces
+- Observability (logs, metrics, cost tracking)
 
 </div>
 
-*Timeline: 3-6 weeks*
+*Typical: 2-5 weeks*
 
 </td>
 <td width="33%" align="center">
 
-### 📈 **Phase 3: Scale**
-*Production deployment and performance monitoring*
+### 🚢 **Phase 3: Operate**
+*Deployment, monitoring, and continuous improvement*
 
 <div align="left">
 
 **Key Activities:**
-- Mainnet deployment
-- AI model deployment
-- Performance monitoring
-- Security auditing
-- Ongoing support
+- Production deployment and CI/CD
+- Rate limits, retries, idempotency
+- Policy updates and safety tightening
+- Ongoing improvements driven by telemetry
 
 </div>
 
-*Timeline: 1-2 weeks*
+*Typical: 1-2 weeks*
 
 </td>
 </tr>
@@ -162,7 +158,7 @@
 
 ## Featured Projects
 
-*Real-world applications showcasing blockchain + AI integration*
+*AI-first builds (plus a couple legacy Web3 products)*
 
 </div>
 
@@ -170,51 +166,50 @@
 <tr>
 <td width="33%" align="center">
 
-### 🎰 **Solana Casino**
+### 🤖 **Agentix**
+[![Agentix](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=AGENTIX&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/AGENTIX)
+
+**Framework for building AI agents**
+
+<div align="left">
+
+- Progressive disclosure from simple to advanced
+- MCP tool support and memory primitives
+- Designed for production patterns and extensibility
+- Python-first developer experience
+
+</div>
+
+</td>
+<td width="33%" align="center">
+
+### 🧰 **RIG**
+[![RIG](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=RIG&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/RIG)
+
+**Runtime Integration Gateway for agent tools**
+
+<div align="left">
+
+- Pack-based tools (pip and npm)
+- Policies, approvals, audit logs, secrets isolation
+- Tool catalog export as MCP server
+- Built for safe agent actions at scale
+
+</div>
+
+</td>
+<td width="33%" align="center">
+
+### 🎰 **Solana Casino (Legacy)**
 [![Solana Casino](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=Solana-Casino&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/Solana-Casino)
 
-**DeFi Gaming Platform**
+**High-polish product build**
 
 <div align="left">
 
-- **Features:** Provably fair gaming
-- **Security:** Multi-signature treasury
-- **Performance:** Optimized for speed
-- **Tech:** Rust/Anchor, React, WebSocket
-
-</div>
-
-</td>
-<td width="33%" align="center">
-
-### 💬 **SOL Chat**
-[![SOL Chat](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=SOL-CHAT&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/SOL-CHAT)
-
-**Decentralized Communication Protocol**
-
-<div align="left">
-
-- **Security:** End-to-end encryption
-- **Access:** NFT-gated channels
-- **Network:** Multi-chain support
-- **Tech:** Solana, TypeScript, WebRTC
-
-</div>
-
-</td>
-<td width="33%" align="center">
-
-### 🤖 **Agentix Framework**
-[![Agentix](https://github-readme-stats.vercel.app/api/pin/?username=AP3X-Dev&repo=agentix&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=f85149&border_color=30363d)](https://github.com/AP3X-Dev/agentix)
-
-**FastAPI for AI Agents**
-
-<div align="left">
-
-- **Features:** Progressive disclosure design
-- **Models:** Claude, OpenRouter, OpenAI
-- **Tools:** MCP protocol integration
-- **Tech:** Python, Anthropic, WebSocket
+- Full-stack system design and delivery
+- Real-time features and production UX
+- Kept here as a reference build quality bar
 
 </div>
 
@@ -226,31 +221,44 @@
 
 <div align="center">
 
-## Tech Stack & Performance
+## Tech Stack
 
-*Technologies I use to build cutting-edge solutions*
+*Tools I ship with day to day*
 
 </div>
 
 <div align="center">
 
-### **Blockchain Technologies**
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **AI/ML Technologies**
+### **AI + Agent Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-1a1a1a?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1a1a?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-1a1a1a?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-1a1a1a?style=for-the-badge)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-1a1a1a?style=for-the-badge)
 
-### **Infrastructure & Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### **Data + Retrieval**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-1a1a1a?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### **Infra + Delivery**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-1a1a1a?style=for-the-badge)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Telnyx](https://img.shields.io/badge/Telnyx-1a1a1a?style=for-the-badge)
+
+### **Selective Web3 (When Useful)**
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
@@ -281,9 +289,9 @@
 
 <div align="center">
 
-## Get In Touch
+## Work With Me
 
-*Ready to build the future of technology?*
+*If you need AI that actually runs in production, not a demo*
 
 </div>
 
@@ -291,32 +299,28 @@
 <tr>
 <td width="50%" align="center">
 
-### 📊 **Expertise**
-**Blockchain + AI Development**
-
+### ✅ **What You Get**
 <div align="left">
 
-✅ Smart Contract Development<br>
-✅ AI/ML Model Creation<br>
-✅ Full-Stack Integration<br>
-✅ Security-First Approach<br>
-✅ Performance Optimization
+- Clear scope and measurable outcomes  
+- Secure tool execution patterns  
+- Integrations that do not break  
+- Evals and monitoring from day one  
+- Clean architecture and documentation  
 
 </div>
 
 </td>
 <td width="50%" align="center">
 
-### 💰 **Investment of Time**
-**Starting at $25,000**
-
+### 💼 **Engagement**
 <div align="left">
 
-✅ Complete development solution<br>
-✅ Security audit included<br>
-✅ AI/Blockchain integration<br>
-✅ Frontend application<br>
-✅ 6 months support
+- Engagements start at **$25,000**  
+- Fixed scope or milestone-based  
+- Production deployment included  
+- 60 days post-ship support  
+- Ongoing support available  
 
 </div>
 
@@ -327,7 +331,7 @@
 <div align="center">
 
 [![Schedule Call](https://img.shields.io/badge/📅_Schedule_Call-4f46e5?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/ap3x-dev)
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-059669?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ap3x.dev)
+[![Email Me](https://img.shields.io/badge/📧_Email-059669?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ap3x.dev)
 
 </div>
 
@@ -335,9 +339,7 @@
 
 <div align="center">
 
-## Bring your business to the future
-
-*Join the blockchain + AI revolution with cutting-edge technology solutions*
+## Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AP3X-Dev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AP3X_Dev)
@@ -354,33 +356,27 @@
 </div>
 
 <details>
-<summary><strong>How long does development take?</strong></summary>
+<summary><strong>What kinds of AI projects do you take on?</strong></summary>
 <br>
-Typical blockchain protocol development takes 8-12 weeks from concept to mainnet deployment. AI/ML projects range from 4-8 weeks depending on complexity, including model training, testing, and deployment.
+Agent platforms, tool runtimes, MCP servers, RAG systems, voice automation, and full-stack products that embed AI into real workflows.
 </details>
 
 <details>
-<summary><strong>What technologies do you specialize in?</strong></summary>
+<summary><strong>How do you keep agents safe in production?</strong></summary>
 <br>
-I specialize in Solana blockchain development (Rust/Anchor) and also work with Ethereum, Polygon, and other EVM chains. For AI, I focus on PyTorch, TensorFlow, and custom neural network architectures for real-world applications.
+Schema-first tools, least-privilege permissions, secrets isolation, approval gates for risky actions, strong validation, replayable traces, and evals that prevent regressions.
 </details>
 
 <details>
-<summary><strong>Do you provide ongoing support?</strong></summary>
+<summary><strong>Do you still work on blockchain?</strong></summary>
 <br>
-Yes, I offer 6 months of post-launch support including bug fixes, performance optimization, feature updates, and model retraining for AI systems.
+Yes, selectively. If Web3 is actually the right tool for the job, I can ship it. The main focus is AI systems and agent infrastructure.
 </details>
 
 <details>
-<summary><strong>Can you integrate AI with blockchain?</strong></summary>
+<summary><strong>How long does a typical build take?</strong></summary>
 <br>
-Absolutely. I specialize in building hybrid systems that combine blockchain security with AI intelligence - from AI-powered trading algorithms to decentralized ML inference networks.
-</details>
-
-<details>
-<summary><strong>What's included in a security audit?</strong></summary>
-<br>
-My security audits include manual code review, automated vulnerability scanning, gas optimization analysis, and a comprehensive report with remediation recommendations for both smart contracts and AI model security.
+Most production agent systems ship in 4 to 8 weeks depending on integrations, data complexity, and required safety constraints.
 </details>
 
 ---
